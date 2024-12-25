@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
-ubuntu:23.04
+ubuntu:24.04
