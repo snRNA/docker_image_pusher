@@ -5,3 +5,5 @@
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
 ubuntu:24.04
+vulhub/joomla:3.4.5
+mysql:5.5
