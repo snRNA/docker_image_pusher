@@ -7,3 +7,4 @@
 ubuntu:24.04
 vulhub/joomla:3.4.5
 mysql:5.5
+vulhub/tomcat:9.0.97
